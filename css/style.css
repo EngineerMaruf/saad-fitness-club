@@ -1,0 +1,177 @@
+body{
+   margin: ;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+   text-align: center;
+   border: 3px solid;
+   border-image: linear-gradient(blue, cyan);
+   border-image-slice: 1;
+   width: 90%;
+   margin: auto;
+   background-color: rgba(128, 128, 128, 0.116);
+}
+header li
+{
+    display: inline;
+}
+header a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    border-radius: 10px;
+ 
+}
+section{
+    margin-top: 100px;
+}
+.header-left-text{
+    margin-top: 100px;
+}
+.header-left-text h1{
+    font-weight: 700;
+    font-size: 40px;
+}
+.header-left-text a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    border-radius: 100px;
+    margin-top: 30px;
+    color: white;
+    font-weight: 500;
+
+}
+
+#top-order-food{
+    margin-top: 80px;
+ 
+}
+
+
+.orange-color-text{
+    color: orange;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.width-50{
+    width: 50%;
+    padding-left: 5%;
+}
+.slider-image img{
+    width: 100%;
+   
+}
+
+.second-section{
+    background-image: url(/images/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    width: 100%;
+    margin: 0;
+   
+}
+.second-section img{
+    position: relative;
+    padding-left: 30%;
+    
+}
+.second-section-text{
+    margin-top: 100px;
+    padding-right: 150px;
+}
+.second-section-text h1{
+font-weight: 700;
+font-size: 30px;
+}
+
+.second-section-text a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    border-radius: 100px;
+    margin-top: 30px;
+    color: white;
+    font-weight: 500;
+}
+
+.button{
+    margin-top: 100px;
+}
+
+article{
+    margin-top: 70px;
+    text-align: center;
+    
+}
+article h1{
+    font-weight: 600;
+    font-size: 40px;
+}
+.recipie{
+    display: flex;
+    justify-content: center;
+    margin-bottom: -110px;
+  
+  
+
+}
+.left-recepie{
+    width: 20%;  
+    margin-right: 50px;
+    box-shadow: 10px 10px 40px green;
+    border-radius: 20px;
+    height: 500px;
+    
+}
+.left-recepie img{
+    width: 90%;
+    padding: 5%;
+    
+}
+.left-recepie h1{
+    padding-left: 5%;
+}
+.left-recepie p{
+    padding-left: 5%;
+}
+.subscribe-area{
+    display: flex;
+    width: 70%;
+   margin: 15%;
+    box-shadow: 10px 10px 40px green;
+    border-radius: 20px;
+    height: 200px;
+    justify-content: center;
+   
+}
+.sub-area-text{
+    width: 20%;
+    padding: 0 10%;
+    text-align: center;
+}
+.sub-area-text h1{
+    font-size: 50px;
+    margin-bottom: -30px;
+}
+footer{
+    text-align: center;
+    height: 200px;
+    background-color: rgb(41, 37, 37);
+    width: 75%;
+    margin-left: 13%;
+    margin-bottom: 30px;
+    margin-top: -150px;
+
+}
+footer h1{
+    color: whitesmoke;
+    padding-top: 50px;    
+}
+footer small{
+    color: white;
+}
